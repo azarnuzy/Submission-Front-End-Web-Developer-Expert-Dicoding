@@ -91,6 +91,9 @@ body {
 .nav a {
     text-decoration: none;
     color: white;
+    display: inline-block;
+    min-width: 44px;
+    min-height: 44px;
 }
 
 .nav a:hover {

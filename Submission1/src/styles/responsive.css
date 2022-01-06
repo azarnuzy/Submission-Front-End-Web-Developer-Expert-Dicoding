@@ -26,6 +26,8 @@
 
     .hamburger-menu a {
         font-size: 44px;
+        min-width: 44px;
+        min-height: 44px;
     }
 
     .header__title {
